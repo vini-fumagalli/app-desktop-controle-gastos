@@ -1,0 +1,6 @@
+[submodule "front-end-controle-gastos"]
+	path = front-end-controle-gastos
+	url = https://github.com/vini-fumagalli/front-end-controle-gastos.git
+[submodule "back-end-controle-gastos"]
+	path = back-end-controle-gastos
+	url = https://github.com/vini-fumagalli/back-end-controle-gastos.git
