@@ -20,6 +20,7 @@ App desktop desenvolvido com o framework Electron para o front-end que consome u
 - Modais, Tabelas e Forms em Bootstrap
 - CORS (Cross-Origin Resource Sharing)
 - Modelagem Domain Driven Design
+- Princípios do SOLID 
 - AutoMapper e Injeção de Dependência
 - Retornos adequados de status HTTP
 - Early Returns 
